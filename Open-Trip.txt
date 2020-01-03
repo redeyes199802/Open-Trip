@@ -1,3 +1,5 @@
 Open Trip
 -design yang akan digunakan design terbaik dari sata
 -membuat skirpsi
+-membbuka startup
+-ganung kesebuah kemunitas
