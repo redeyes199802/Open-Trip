@@ -1,6 +1,6 @@
 Open Trip
 -design yang akan digunakan design terbaik dari sata
--membuat skirpsi
+-membuat skirpsi 
 -sidang kp
 -seminar ta
 -membbuka startup
@@ -8,3 +8,4 @@ Open Trip
 -bekerja di prusahaan besar
 -target pemasaran
 -mengajak beberapa brand ternama untuk bergabung
+
